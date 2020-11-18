@@ -17,5 +17,4 @@ public class Kata3 {
         HistogramDisplay histogramDisplay = new HistogramDisplay("HISTOGRAM", histogram);
         histogramDisplay.execute();
     }
-    
 }
